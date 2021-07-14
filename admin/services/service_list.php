@@ -1,5 +1,5 @@
 <br>
-<h5 class="">Services</h5>
+<h5 class="">Servicios</h5>
 <hr>
 <style>
 	.img-service{
@@ -12,9 +12,9 @@
 	<div class="container-fluid">
 		<div class="card card-outline card-primary">
 			<div class="card-header">
-				<h5 class="card-title">List of Services</h5>
+				<h5 class="card-title">Lista de Servicios</h5>
 				<div class="card-tools">
-					<button class="btn btn-flat btn-primary btn-sm" type="button" id="new_data"><span class="fa fa-plus"></span> New Services</button>
+					<button class="btn btn-flat btn-primary btn-sm" type="button" id="new_data"><span class="fa fa-plus"></span> Crear Servicio</button>
 				</div>
 			</div>
 			<div class="card-body">
